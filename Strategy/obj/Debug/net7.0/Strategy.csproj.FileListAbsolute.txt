@@ -1,0 +1,15 @@
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\bin\Debug\net7.0\Strategy.exe
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\bin\Debug\net7.0\Strategy.deps.json
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\bin\Debug\net7.0\Strategy.dll
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\bin\Debug\net7.0\Strategy.pdb
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.dll
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.pdb
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+C:\dev\Cursos\Alura\Formação boas práticas em C#\Design Patterns C#\Design Patterns C#\Strategy\obj\Debug\net7.0\ref\Strategy.dll
