@@ -5,6 +5,12 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{2367CF8E-A2DC-429A-B2C9-338729E83E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{38276207-BAD6-49FB-A7EF-8AFE4A18922B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atividades", "Atividades", "{8F9617C2-15A3-4047-A123-65F75615F3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorDeImpostos", "CalculadorDeImpostos\CalculadorDeImpostos.csproj", "{3CB728F9-63EC-4E95-923C-8A12545F6D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +21,20 @@ Global
 		{2367CF8E-A2DC-429A-B2C9-338729E83E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2367CF8E-A2DC-429A-B2C9-338729E83E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2367CF8E-A2DC-429A-B2C9-338729E83E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38276207-BAD6-49FB-A7EF-8AFE4A18922B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38276207-BAD6-49FB-A7EF-8AFE4A18922B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38276207-BAD6-49FB-A7EF-8AFE4A18922B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38276207-BAD6-49FB-A7EF-8AFE4A18922B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3CB728F9-63EC-4E95-923C-8A12545F6D1B} = {8F9617C2-15A3-4047-A123-65F75615F3F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {265AA877-1134-487B-A013-9B08A5509B33}

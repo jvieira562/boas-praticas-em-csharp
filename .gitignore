@@ -1,0 +1,48 @@
+# Diretórios
+/bin/
+/obj/
+/.vs/
+
+# Arquivos de projeto
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.csproj
+*.user
+*.vspscc
+*.vssscc
+*.dotCover
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.cache
+*.log
+
+# Arquivos gerados pela execução
+/[Dd]ebug/
+/[Rr]elease/
+/*.dbmdl
+/*.dbproj.layout
+/*.jfm
+/*.bak
+/*.userprefs
+/*.bak
+
+# Ferramentas de desenvolvimento
+_ReSharper*/
+*.resharper
+[Tt]humbs.db
+*.suo
+*.sln.docstates
+
+# Pacotes NuGet
+/packages/
+*.nupkg
+**/node_modules/
+
+# Logs
+*.log
+*.txt
