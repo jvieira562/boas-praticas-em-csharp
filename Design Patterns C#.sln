@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{2367CF8E-A2DC-429A-B2C9-338729E83E47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{2367CF8E-A2DC-429A-B2C9-338729E83E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{38276207-BAD6-49FB-A7EF-8AFE4A18922B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{38276207-BAD6-49FB-A7EF-8AFE4A18922B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Atividades", "Atividades", "{8F9617C2-15A3-4047-A123-65F75615F3F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadorDeImpostos", "CalculadorDeImpostos\CalculadorDeImpostos.csproj", "{3CB728F9-63EC-4E95-923C-8A12545F6D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadorDeImpostos", "CalculadorDeImpostos\CalculadorDeImpostos.csproj", "{3CB728F9-63EC-4E95-923C-8A12545F6D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{EC79F751-CFC9-404D-805C-E1A3135F9941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB728F9-63EC-4E95-923C-8A12545F6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC79F751-CFC9-404D-805C-E1A3135F9941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC79F751-CFC9-404D-805C-E1A3135F9941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC79F751-CFC9-404D-805C-E1A3135F9941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC79F751-CFC9-404D-805C-E1A3135F9941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
